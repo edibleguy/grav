@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/data/gantry5/themes/g5_helium/config/default/layout.yaml',
-    'modified' => 1482762327,
+    'modified' => 1482762746,
     'data' => [
         'version' => 2,
         'preset' => [
@@ -14,13 +14,14 @@ return [
             '/navigation/' => [
                 0 => [
                     0 => 'custom-4161'
+                ],
+                1 => [
+                    0 => 'mobile-menu-6031 24',
+                    1 => 'menu-8418 76'
                 ]
             ],
             '/header/' => [
-                0 => [
-                    0 => 'mobile-menu-6031 31',
-                    1 => 'menu-8418 69'
-                ]
+                
             ],
             '/intro/' => [
                 
@@ -174,8 +175,7 @@ return [
                 'attributes' => [
                     'html' => '<center style="font-size:160%;">
 My Edible Landscape
-</center>
-<br>'
+</center>'
                 ]
             ],
             'mobile-menu-6031' => [
@@ -183,7 +183,7 @@ My Edible Landscape
             ],
             'menu-8418' => [
                 'attributes' => [
-                    'menu' => 'mainmenu'
+                    'menu' => '-active-'
                 ]
             ],
             'position-position-4734' => [

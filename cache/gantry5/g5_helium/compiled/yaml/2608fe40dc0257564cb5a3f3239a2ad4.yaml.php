@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/data/gantry5/themes/g5_helium/config/default/styles.yaml',
-    'modified' => 1482762262,
+    'modified' => 1482763085,
     'data' => [
         'preset' => 'preset5',
         'base' => [
@@ -18,7 +18,7 @@ return [
             'family-title' => 'Lato, Helvetica, Tahoma, Geneva, Arial, sans-serif'
         ],
         'navigation' => [
-            'background' => '#474747',
+            'background' => '#0f0401',
             'text-color' => '#ffffff'
         ],
         'header' => [

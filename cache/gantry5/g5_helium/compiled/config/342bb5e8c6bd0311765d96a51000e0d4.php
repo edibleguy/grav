@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1482762268,
-    'checksum' => '217033880a508b39a8a6cd0c7eedde9a',
+    'timestamp' => 1482763090,
+    'checksum' => '57f2a9e1c2b217c76be6563743263540',
     'files' => [
         'user/data/gantry5/themes/g5_helium/config/_body_only' => [
             'index' => [
@@ -17,15 +17,15 @@ return [
         'user/data/gantry5/themes/g5_helium/config/default' => [
             'index' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/index.yaml',
-                'modified' => 1482761985
+                'modified' => 1482762746
             ],
             'layout' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/layout.yaml',
-                'modified' => 1482761985
+                'modified' => 1482762746
             ],
             'styles' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/styles.yaml',
-                'modified' => 1482762262
+                'modified' => 1482763085
             ]
         ],
         'user/themes/g5_helium/config/default' => [
@@ -171,7 +171,7 @@ return [
                 'animation' => 'g-fade'
             ],
             'navigation' => [
-                'background' => '#474747',
+                'background' => '#0f0401',
                 'text-color' => '#ffffff'
             ],
             'offcanvas' => [
@@ -457,17 +457,16 @@ return [
                     'attributes' => [
                         'html' => '<center style="font-size:160%;">
 My Edible Landscape
-</center>
-<br>'
-                    ]
-                ],
-                'menu-8418' => [
-                    'attributes' => [
-                        'menu' => 'mainmenu'
+</center>'
                     ]
                 ],
                 'mobile-menu-6031' => [
                     'title' => 'Mobile Menu'
+                ],
+                'menu-8418' => [
+                    'attributes' => [
+                        'menu' => '-active-'
+                    ]
                 ],
                 'position-position-4734' => [
                     'title' => 'Aside',

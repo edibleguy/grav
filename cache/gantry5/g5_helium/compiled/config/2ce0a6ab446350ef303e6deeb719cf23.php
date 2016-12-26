@@ -1,21 +1,21 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1482762334,
-    'checksum' => '24059fd36bd5ac7d561e066e1c1f7c66',
+    'timestamp' => 1482763085,
+    'checksum' => '33dd386eacef888870f4509c223df001',
     'files' => [
         'user/data/gantry5/themes/g5_helium/config/default' => [
             'index' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/index.yaml',
-                'modified' => 1482762327
+                'modified' => 1482762746
             ],
             'layout' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/layout.yaml',
-                'modified' => 1482762327
+                'modified' => 1482762746
             ],
             'styles' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/styles.yaml',
-                'modified' => 1482762262
+                'modified' => 1482763085
             ]
         ],
         'user/themes/g5_helium/config/default' => [
@@ -161,7 +161,7 @@ return [
                 'animation' => 'g-fade'
             ],
             'navigation' => [
-                'background' => '#474747',
+                'background' => '#0f0401',
                 'text-color' => '#ffffff'
             ],
             'offcanvas' => [
@@ -390,7 +390,7 @@ return [
         ],
         'index' => [
             'name' => 'default',
-            'timestamp' => 1482762327,
+            'timestamp' => 1482762746,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -462,13 +462,14 @@ return [
                 '/navigation/' => [
                     0 => [
                         0 => 'custom-4161'
+                    ],
+                    1 => [
+                        0 => 'mobile-menu-6031 24',
+                        1 => 'menu-8418 76'
                     ]
                 ],
                 '/header/' => [
-                    0 => [
-                        0 => 'mobile-menu-6031 31',
-                        1 => 'menu-8418 69'
-                    ]
+                    
                 ],
                 '/intro/' => [
                     
@@ -622,8 +623,7 @@ return [
                     'attributes' => [
                         'html' => '<center style="font-size:160%;">
 My Edible Landscape
-</center>
-<br>'
+</center>'
                     ]
                 ],
                 'mobile-menu-6031' => [
@@ -631,7 +631,7 @@ My Edible Landscape
                 ],
                 'menu-8418' => [
                     'attributes' => [
-                        'menu' => 'mainmenu'
+                        'menu' => '-active-'
                     ]
                 ],
                 'position-position-4734' => [

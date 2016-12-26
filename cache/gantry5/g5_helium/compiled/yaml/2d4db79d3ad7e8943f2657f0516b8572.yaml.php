@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/data/gantry5/themes/g5_helium/config/default/index.yaml',
-    'modified' => 1482762327,
+    'modified' => 1482762746,
     'data' => [
         'name' => 'default',
-        'timestamp' => 1482762327,
+        'timestamp' => 1482762746,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',
