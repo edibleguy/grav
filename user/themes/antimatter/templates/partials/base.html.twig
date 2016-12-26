@@ -55,6 +55,14 @@
                 {% endblock %}
                 <span class="panel-activation sb-toggle-left navbar-left menu-btn fa fa-bars"></span>
             </div>
+
+<div id="site-header-widgets" class="widget-area site-header-widgets">
+{% if config.plugins.simplesearch.enabled %}
+    {% include 'partials/simplesearch_searchbox_top.html.twig' %}
+{% endif %}
+</div>
+
+
         </header>
         {% endblock %}
 
