@@ -1,21 +1,21 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1482761992,
-    'checksum' => '5a128a325b26c185535337feec626829',
+    'timestamp' => 1482762334,
+    'checksum' => '24059fd36bd5ac7d561e066e1c1f7c66',
     'files' => [
         'user/data/gantry5/themes/g5_helium/config/default' => [
             'index' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/index.yaml',
-                'modified' => 1482761985
+                'modified' => 1482762327
             ],
             'layout' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/layout.yaml',
-                'modified' => 1482761985
+                'modified' => 1482762327
             ],
             'styles' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/styles.yaml',
-                'modified' => 1482733921
+                'modified' => 1482762262
             ]
         ],
         'user/themes/g5_helium/config/default' => [
@@ -148,8 +148,8 @@ return [
             ],
             'header' => [
                 'background' => '#474747',
-                'background-image' => 'gantry-media://header/chestnuts-on-a-tree.jpg',
-                'background-overlay' => 'enabled',
+                'background-image' => '',
+                'background-overlay' => 'disabled',
                 'text-color' => '#fafac0'
             ],
             'intro' => [
@@ -390,7 +390,7 @@ return [
         ],
         'index' => [
             'name' => 'default',
-            'timestamp' => 1482761985,
+            'timestamp' => 1482762327,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -420,12 +420,12 @@ return [
                 'custom' => [
                     'custom-4161' => 'Custom HTML'
                 ],
-                'menu' => [
-                    'menu-8418' => 'Menu'
-                ],
                 'mobile-menu' => [
                     'mobile-menu-6031' => 'Mobile Menu',
                     'mobile-menu-5697' => 'Mobile-menu'
+                ],
+                'menu' => [
+                    'menu-8418' => 'Menu'
                 ],
                 'position' => [
                     'position-position-4734' => 'Aside',
@@ -466,8 +466,8 @@ return [
                 ],
                 '/header/' => [
                     0 => [
-                        0 => 'menu-8418 50',
-                        1 => 'mobile-menu-6031 50'
+                        0 => 'mobile-menu-6031 31',
+                        1 => 'menu-8418 69'
                     ]
                 ],
                 '/intro/' => [
@@ -626,13 +626,13 @@ My Edible Landscape
 <br>'
                     ]
                 ],
+                'mobile-menu-6031' => [
+                    'title' => 'Mobile Menu'
+                ],
                 'menu-8418' => [
                     'attributes' => [
                         'menu' => 'mainmenu'
                     ]
-                ],
-                'mobile-menu-6031' => [
-                    'title' => 'Mobile Menu'
                 ],
                 'position-position-4734' => [
                     'title' => 'Aside',

@@ -9,8 +9,8 @@ layout:
       - custom-4161
   /header/:
     -
-      - 'menu-8418 50'
-      - 'mobile-menu-6031 50'
+      - 'mobile-menu-6031 31'
+      - 'menu-8418 69'
   /intro/: {  }
   /features/: {  }
   /utility/: {  }
@@ -104,11 +104,11 @@ content:
     title: 'Custom HTML'
     attributes:
       html: "<center style=\"font-size:160%;\">\nMy Edible Landscape\n</center>\n<br>"
+  mobile-menu-6031:
+    title: 'Mobile Menu'
   menu-8418:
     attributes:
       menu: mainmenu
-  mobile-menu-6031:
-    title: 'Mobile Menu'
   position-position-4734:
     title: Aside
     attributes:

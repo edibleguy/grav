@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1482733929,
-    'checksum' => '70c20d36f293880d78492f1f3ab976b5',
+    'timestamp' => 1482762270,
+    'checksum' => '8c9115cd0fe6fecab09bb0475bc04928',
     'files' => [
         'user/data/gantry5/themes/g5_helium/config/_error' => [
             'index' => [
@@ -17,15 +17,15 @@ return [
         'user/data/gantry5/themes/g5_helium/config/default' => [
             'index' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/index.yaml',
-                'modified' => 1482733671
+                'modified' => 1482761985
             ],
             'layout' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/layout.yaml',
-                'modified' => 1482733671
+                'modified' => 1482761985
             ],
             'styles' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/styles.yaml',
-                'modified' => 1482733921
+                'modified' => 1482762262
             ]
         ],
         'user/themes/g5_helium/config/default' => [
@@ -158,8 +158,8 @@ return [
             ],
             'header' => [
                 'background' => '#474747',
-                'background-image' => 'gantry-media://header/chestnuts-on-a-tree.jpg',
-                'background-overlay' => 'enabled',
+                'background-image' => '',
+                'background-overlay' => 'disabled',
                 'text-color' => '#fafac0'
             ],
             'intro' => [

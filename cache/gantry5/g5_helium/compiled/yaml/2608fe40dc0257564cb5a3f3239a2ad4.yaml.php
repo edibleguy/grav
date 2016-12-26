@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/data/gantry5/themes/g5_helium/config/default/styles.yaml',
-    'modified' => 1482733921,
+    'modified' => 1482762262,
     'data' => [
         'preset' => 'preset5',
         'base' => [
@@ -23,8 +23,8 @@ return [
         ],
         'header' => [
             'background' => '#474747',
-            'background-image' => 'gantry-media://header/chestnuts-on-a-tree.jpg',
-            'background-overlay' => 'enabled',
+            'background-image' => '',
+            'background-overlay' => 'disabled',
             'text-color' => '#fafac0'
         ],
         'intro' => [

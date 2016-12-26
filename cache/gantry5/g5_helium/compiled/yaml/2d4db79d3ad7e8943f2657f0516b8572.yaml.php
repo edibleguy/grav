@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/data/gantry5/themes/g5_helium/config/default/index.yaml',
-    'modified' => 1482761985,
+    'modified' => 1482762327,
     'data' => [
         'name' => 'default',
-        'timestamp' => 1482761985,
+        'timestamp' => 1482762327,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',
@@ -35,12 +35,12 @@ return [
             'custom' => [
                 'custom-4161' => 'Custom HTML'
             ],
-            'menu' => [
-                'menu-8418' => 'Menu'
-            ],
             'mobile-menu' => [
                 'mobile-menu-6031' => 'Mobile Menu',
                 'mobile-menu-5697' => 'Mobile-menu'
+            ],
+            'menu' => [
+                'menu-8418' => 'Menu'
             ],
             'position' => [
                 'position-position-4734' => 'Aside',

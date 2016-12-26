@@ -13,8 +13,8 @@ navigation:
   text-color: '#ffffff'
 header:
   background: '#474747'
-  background-image: 'gantry-media://header/chestnuts-on-a-tree.jpg'
-  background-overlay: enabled
+  background-image: ''
+  background-overlay: disabled
   text-color: '#fafac0'
 intro:
   background: '#f4f5f7'
