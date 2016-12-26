@@ -6,11 +6,11 @@ preset:
 layout:
   /navigation/:
     -
-      - menu-8418
+      - custom-4161
   /header/:
     -
-      - 'custom-4161 76'
-      - 'mobile-menu-6031 24'
+      - 'menu-8418 50'
+      - 'mobile-menu-6031 50'
   /intro/: {  }
   /features/: {  }
   /utility/: {  }
@@ -44,7 +44,7 @@ structure:
   navigation:
     type: section
     attributes:
-      boxed: ''
+      boxed: '2'
       class: ''
   header:
     attributes:
@@ -100,13 +100,13 @@ structure:
     attributes:
       boxed: ''
 content:
-  menu-8418:
-    attributes:
-      menu: mainmenu
   custom-4161:
     title: 'Custom HTML'
     attributes:
       html: "<center style=\"font-size:160%;\">\nMy Edible Landscape\n</center>\n<br>"
+  menu-8418:
+    attributes:
+      menu: mainmenu
   mobile-menu-6031:
     title: 'Mobile Menu'
   position-position-4734:

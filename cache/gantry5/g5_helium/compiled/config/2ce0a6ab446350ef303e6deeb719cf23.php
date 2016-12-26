@@ -1,17 +1,17 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1482733921,
-    'checksum' => '3ecac0bb05edb6bd581c2663a9ba0536',
+    'timestamp' => 1482761992,
+    'checksum' => '5a128a325b26c185535337feec626829',
     'files' => [
         'user/data/gantry5/themes/g5_helium/config/default' => [
             'index' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/index.yaml',
-                'modified' => 1482733671
+                'modified' => 1482761985
             ],
             'layout' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/layout.yaml',
-                'modified' => 1482733671
+                'modified' => 1482761985
             ],
             'styles' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/styles.yaml',
@@ -390,7 +390,7 @@ return [
         ],
         'index' => [
             'name' => 'default',
-            'timestamp' => 1482733671,
+            'timestamp' => 1482761985,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -417,11 +417,11 @@ return [
                 'offcanvas' => 'Offcanvas'
             ],
             'particles' => [
-                'menu' => [
-                    'menu-8418' => 'Menu'
-                ],
                 'custom' => [
                     'custom-4161' => 'Custom HTML'
+                ],
+                'menu' => [
+                    'menu-8418' => 'Menu'
                 ],
                 'mobile-menu' => [
                     'mobile-menu-6031' => 'Mobile Menu',
@@ -461,13 +461,13 @@ return [
             'layout' => [
                 '/navigation/' => [
                     0 => [
-                        0 => 'menu-8418'
+                        0 => 'custom-4161'
                     ]
                 ],
                 '/header/' => [
                     0 => [
-                        0 => 'custom-4161 76',
-                        1 => 'mobile-menu-6031 24'
+                        0 => 'menu-8418 50',
+                        1 => 'mobile-menu-6031 50'
                     ]
                 ],
                 '/intro/' => [
@@ -531,7 +531,7 @@ return [
                 'navigation' => [
                     'type' => 'section',
                     'attributes' => [
-                        'boxed' => '',
+                        'boxed' => '2',
                         'class' => ''
                     ]
                 ],
@@ -617,11 +617,6 @@ return [
                 ]
             ],
             'content' => [
-                'menu-8418' => [
-                    'attributes' => [
-                        'menu' => 'mainmenu'
-                    ]
-                ],
                 'custom-4161' => [
                     'title' => 'Custom HTML',
                     'attributes' => [
@@ -629,6 +624,11 @@ return [
 My Edible Landscape
 </center>
 <br>'
+                    ]
+                ],
+                'menu-8418' => [
+                    'attributes' => [
+                        'menu' => 'mainmenu'
                     ]
                 ],
                 'mobile-menu-6031' => [
