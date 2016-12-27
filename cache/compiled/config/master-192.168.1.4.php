@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1482729230,
-    'checksum' => '7bda10b19b1cc14046e471d3916a55d9',
+    'timestamp' => 1482775213,
+    'checksum' => 'f8ec6cf4e7c91e54a2eaff9472c5a8b8',
     'files' => [
         'user/config' => [
             'media' => [
@@ -23,7 +23,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1482729230
+                'modified' => 1482775162
             ],
             'themes/bones' => [
                 'file' => 'user/config/themes/bones.yaml',
@@ -49,19 +49,19 @@ return [
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1482432293
+                'modified' => 1482773221
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1482432293
+                'modified' => 1482773221
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1482432293
+                'modified' => 1482773221
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1482432293
+                'modified' => 1482773221
             ]
         ],
         'user/plugins' => [
@@ -100,6 +100,10 @@ return [
             'plugins/page-inject' => [
                 'file' => 'user/plugins/page-inject/page-inject.yaml',
                 'modified' => 1482727100
+            ],
+            'plugins/git-sync' => [
+                'file' => 'user/plugins/git-sync/git-sync.yaml',
+                'modified' => 1482775212
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/simplesearch.yaml',
@@ -235,6 +239,10 @@ return [
                 'enabled' => true,
                 'active' => true,
                 'processed_content' => true
+            ],
+            'git-sync' => [
+                'enabled' => true,
+                'text_var' => 'Custom Text added by the **Git Sync** plugin (disable plugin to remove)'
             ],
             'simplesearch' => [
                 'enabled' => true,
@@ -977,7 +985,7 @@ return [
                 'path' => NULL
             ],
             'gpm' => [
-                'releases' => 'stable',
+                'releases' => 'testing',
                 'proxy_url' => NULL,
                 'method' => 'auto',
                 'verify_peer' => true

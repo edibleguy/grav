@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/config/system.yaml',
-    'modified' => 1482729055,
+    'modified' => 1482775162,
     'data' => [
         'absolute_urls' => false,
         'timezone' => '',
@@ -28,7 +28,7 @@ return [
             'hide_in_urls' => false
         ],
         'pages' => [
-            'theme' => 'halcyon',
+            'theme' => 'g5_helium',
             'order' => [
                 'by' => 'default',
                 'dir' => 'asc'
@@ -171,7 +171,7 @@ return [
             'path' => NULL
         ],
         'gpm' => [
-            'releases' => 'stable',
+            'releases' => 'testing',
             'proxy_url' => NULL,
             'method' => 'auto',
             'verify_peer' => true

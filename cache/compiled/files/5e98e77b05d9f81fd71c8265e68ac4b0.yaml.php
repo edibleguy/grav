@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/system/blueprints/user/account.yaml',
-    'modified' => 1482432293,
+    'modified' => 1482773221,
     'data' => [
         'title' => 'Account',
         'form' => [
