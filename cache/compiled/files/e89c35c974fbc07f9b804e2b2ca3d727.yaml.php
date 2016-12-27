@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/plugins/featherlight/featherlight.yaml',
-    'modified' => 1482727098,
+    'modified' => 1482802099,
     'data' => [
         'enabled' => true,
         'active' => true,

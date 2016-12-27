@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/plugins/gantry5/engines/nucleus/blueprints/pages/modular/text.yaml',
-    'modified' => 1482713206,
+    'modified' => 1482802099,
     'data' => [
         'title' => 'Text',
         'extends@' => 'default',

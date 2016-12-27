@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'themes://striped/striped.yaml',
-    'modified' => 1482725006,
+    'modified' => 1482802104,
     'data' => [
         'enabled' => true,
         'color' => 'blue',

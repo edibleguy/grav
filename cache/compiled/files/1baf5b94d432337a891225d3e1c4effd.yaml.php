@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/themes/lingonberry/blueprints.yaml',
-    'modified' => 1482725622,
+    'modified' => 1482802103,
     'data' => [
         'name' => 'Lingonberry',
         'version' => '1.1.0',

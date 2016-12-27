@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/themes/soraarticle/blueprints.yaml',
-    'modified' => 1482717576,
+    'modified' => 1482802104,
     'data' => [
         'name' => 'SoraArticle',
         'version' => '1.4.0',

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/themes/striped/blueprints.yaml',
-    'modified' => 1482725006,
+    'modified' => 1482802104,
     'data' => [
         'name' => 'Striped',
         'version' => '2.2.0',

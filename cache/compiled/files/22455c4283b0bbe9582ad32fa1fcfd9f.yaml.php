@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/themes/materialize/blueprints.yaml',
-    'modified' => 1482723633,
+    'modified' => 1482802103,
     'data' => [
         'name' => 'Materialize',
         'version' => '1.3.8',

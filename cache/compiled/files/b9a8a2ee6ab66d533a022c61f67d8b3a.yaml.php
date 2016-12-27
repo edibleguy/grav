@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/themes/afterburner2/blueprints.yaml',
-    'modified' => 1482718923,
+    'modified' => 1482802102,
     'data' => [
         'name' => 'Afterburner2',
         'version' => '1.7.0',

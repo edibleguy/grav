@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'themes://lingonberry/lingonberry.yaml',
-    'modified' => 1482725622,
+    'modified' => 1482802103,
     'data' => [
         'enabled' => true
     ]

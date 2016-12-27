@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/plugins/relatedpages/relatedpages.yaml',
-    'modified' => 1482719727,
+    'modified' => 1482802102,
     'data' => [
         'enabled' => true,
         'limit' => 5,

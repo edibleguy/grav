@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/plugins/gantry5/engines/nucleus/particles/contentarray.yaml',
-    'modified' => 1482713206,
+    'modified' => 1482802099,
     'data' => [
         'name' => 'Grav Content',
         'description' => 'Display Grav Content in given Category taxonomy.',

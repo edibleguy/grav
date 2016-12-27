@@ -1,115 +1,115 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1482775213,
-    'checksum' => 'e7ed864cc0899517deb9cbde3b0e6af3',
+    'timestamp' => 1482802382,
+    'checksum' => '32785f83d6216d744044220772ac1a88',
     'files' => [
         'system/blueprints/config' => [
             'media' => [
                 'file' => 'system/blueprints/config/media.yaml',
-                'modified' => 1482773221
+                'modified' => 1482802098
             ],
             'site' => [
                 'file' => 'system/blueprints/config/site.yaml',
-                'modified' => 1482773221
+                'modified' => 1482802098
             ],
             'streams' => [
                 'file' => 'system/blueprints/config/streams.yaml',
-                'modified' => 1482773221
+                'modified' => 1482802098
             ],
             'system' => [
                 'file' => 'system/blueprints/config/system.yaml',
-                'modified' => 1482773221
+                'modified' => 1482802098
             ]
         ],
         'user/plugins' => [
             'plugins/taxonomylist' => [
                 'file' => 'user/plugins/taxonomylist/blueprints.yaml',
-                'modified' => 1482719730
+                'modified' => 1482802102
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/blueprints.yaml',
-                'modified' => 1482432294
+                'modified' => 1482802099
             ],
             'plugins/markdown-fontawesome' => [
                 'file' => 'user/plugins/markdown-fontawesome/blueprints.yaml',
-                'modified' => 1482727099
+                'modified' => 1482802099
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/blueprints.yaml',
-                'modified' => 1482719732
+                'modified' => 1482802099
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/blueprints.yaml',
-                'modified' => 1482592681
+                'modified' => 1482802099
             ],
             'plugins/archives' => [
                 'file' => 'user/plugins/archives/blueprints.yaml',
-                'modified' => 1482719731
+                'modified' => 1482802099
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/blueprints.yaml',
-                'modified' => 1482432294
+                'modified' => 1482802099
             ],
             'plugins/featherlight' => [
                 'file' => 'user/plugins/featherlight/blueprints.yaml',
-                'modified' => 1482727098
+                'modified' => 1482802099
             ],
             'plugins/page-inject' => [
                 'file' => 'user/plugins/page-inject/blueprints.yaml',
-                'modified' => 1482727100
+                'modified' => 1482802102
             ],
             'plugins/git-sync' => [
                 'file' => 'user/plugins/git-sync/blueprints.yaml',
-                'modified' => 1482775212
+                'modified' => 1482802099
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/blueprints.yaml',
-                'modified' => 1482681124
+                'modified' => 1482802102
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/blueprints.yaml',
-                'modified' => 1482592683
+                'modified' => 1482802099
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/blueprints.yaml',
-                'modified' => 1482432295
+                'modified' => 1482802102
             ],
             'plugins/materializer' => [
                 'file' => 'user/plugins/materializer/blueprints.yaml',
-                'modified' => 1482723631
+                'modified' => 1482802099
             ],
             'plugins/relatedpages' => [
                 'file' => 'user/plugins/relatedpages/blueprints.yaml',
-                'modified' => 1482719727
+                'modified' => 1482802102
             ],
             'plugins/external_links' => [
                 'file' => 'user/plugins/external_links/blueprints.yaml',
-                'modified' => 1482727096
+                'modified' => 1482802099
             ],
             'plugins/gantry5' => [
                 'file' => 'user/plugins/gantry5/blueprints.yaml',
-                'modified' => 1482713206
+                'modified' => 1482802099
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/blueprints.yaml',
-                'modified' => 1482592684
+                'modified' => 1482802099
             ],
             'plugins/feed' => [
                 'file' => 'user/plugins/feed/blueprints.yaml',
-                'modified' => 1482719726
+                'modified' => 1482802099
             ],
             'plugins/youtube' => [
                 'file' => 'user/plugins/youtube/blueprints.yaml',
-                'modified' => 1482727101
+                'modified' => 1482802102
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/blueprints.yaml',
-                'modified' => 1482592688
+                'modified' => 1482802098
             ],
             'plugins/pagination' => [
                 'file' => 'user/plugins/pagination/blueprints.yaml',
-                'modified' => 1482719729
+                'modified' => 1482802102
             ]
         ]
     ],

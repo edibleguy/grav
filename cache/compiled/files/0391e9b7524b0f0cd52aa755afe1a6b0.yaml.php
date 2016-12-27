@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/plugins/markdown-fontawesome/blueprints.yaml',
-    'modified' => 1482727099,
+    'modified' => 1482802099,
     'data' => [
         'name' => 'Markdown Font Awesome',
         'version' => '1.0.1',

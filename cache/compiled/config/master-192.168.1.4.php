@@ -1,157 +1,157 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1482775213,
-    'checksum' => 'f8ec6cf4e7c91e54a2eaff9472c5a8b8',
+    'timestamp' => 1482802382,
+    'checksum' => '0948395decdc02c7bed4ac47b5c23199',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1482593372
+                'modified' => 1482802098
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1482564417
+                'modified' => 1482802098
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1482694657
+                'modified' => 1482802098
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1482593372
+                'modified' => 1482802098
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1482775162
+                'modified' => 1482802098
             ],
             'themes/bones' => [
                 'file' => 'user/config/themes/bones.yaml',
-                'modified' => 1482726852
+                'modified' => 1482802098
             ],
             'themes/bones-vanilla' => [
                 'file' => 'user/config/themes/bones-vanilla.yaml',
-                'modified' => 1482726955
+                'modified' => 1482802098
             ],
             'themes/purity' => [
                 'file' => 'user/config/themes/purity.yaml',
-                'modified' => 1482726157
+                'modified' => 1482802098
             ],
             'themes/striped' => [
                 'file' => 'user/config/themes/striped.yaml',
-                'modified' => 1482725300
+                'modified' => 1482802098
             ],
             'themes/woo' => [
                 'file' => 'user/config/themes/woo.yaml',
-                'modified' => 1482725359
+                'modified' => 1482802098
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1482773221
+                'modified' => 1482802098
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1482773221
+                'modified' => 1482802098
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1482773221
+                'modified' => 1482802098
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1482773221
+                'modified' => 1482802098
             ]
         ],
         'user/plugins' => [
             'plugins/taxonomylist' => [
                 'file' => 'user/plugins/taxonomylist/taxonomylist.yaml',
-                'modified' => 1482719730
+                'modified' => 1482802102
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
-                'modified' => 1482432294
+                'modified' => 1482802099
             ],
             'plugins/markdown-fontawesome' => [
                 'file' => 'user/plugins/markdown-fontawesome/markdown-fontawesome.yaml',
-                'modified' => 1482727099
+                'modified' => 1482802099
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/breadcrumbs.yaml',
-                'modified' => 1482719732
+                'modified' => 1482802099
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1482592681
+                'modified' => 1482802099
             ],
             'plugins/archives' => [
                 'file' => 'user/plugins/archives/archives.yaml',
-                'modified' => 1482719731
+                'modified' => 1482802099
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1482432294
+                'modified' => 1482802099
             ],
             'plugins/featherlight' => [
                 'file' => 'user/plugins/featherlight/featherlight.yaml',
-                'modified' => 1482727098
+                'modified' => 1482802099
             ],
             'plugins/page-inject' => [
                 'file' => 'user/plugins/page-inject/page-inject.yaml',
-                'modified' => 1482727100
+                'modified' => 1482802102
             ],
             'plugins/git-sync' => [
                 'file' => 'user/plugins/git-sync/git-sync.yaml',
-                'modified' => 1482775212
+                'modified' => 1482802099
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/simplesearch.yaml',
-                'modified' => 1482681572
+                'modified' => 1482802102
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1482592683
+                'modified' => 1482802099
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1482432295
+                'modified' => 1482802102
             ],
             'plugins/materializer' => [
                 'file' => 'user/plugins/materializer/materializer.yaml',
-                'modified' => 1482723631
+                'modified' => 1482802102
             ],
             'plugins/relatedpages' => [
                 'file' => 'user/plugins/relatedpages/relatedpages.yaml',
-                'modified' => 1482719727
+                'modified' => 1482802102
             ],
             'plugins/external_links' => [
                 'file' => 'user/plugins/external_links/external_links.yaml',
-                'modified' => 1482727096
+                'modified' => 1482802099
             ],
             'plugins/gantry5' => [
                 'file' => 'user/plugins/gantry5/gantry5.yaml',
-                'modified' => 1482713206
+                'modified' => 1482802099
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1482592684
+                'modified' => 1482802099
             ],
             'plugins/feed' => [
                 'file' => 'user/plugins/feed/feed.yaml',
-                'modified' => 1482719726
+                'modified' => 1482802099
             ],
             'plugins/youtube' => [
                 'file' => 'user/plugins/youtube/youtube.yaml',
-                'modified' => 1482727101
+                'modified' => 1482802102
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1482592688
+                'modified' => 1482802098
             ],
             'plugins/pagination' => [
                 'file' => 'user/plugins/pagination/pagination.yaml',
-                'modified' => 1482719729
+                'modified' => 1482802102
             ]
         ]
     ],

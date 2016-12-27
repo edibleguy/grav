@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/plugins/materializer/materializer.yaml',
-    'modified' => 1482723631,
+    'modified' => 1482802102,
     'data' => [
         'enabled' => true,
         'always_load' => false,

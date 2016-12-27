@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/themes/pinpress/blueprints.yaml',
-    'modified' => 1482717194,
+    'modified' => 1482802104,
     'data' => [
         'name' => 'Pinpress',
         'version' => '1.3.0',

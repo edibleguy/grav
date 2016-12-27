@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/plugins/gantry5/engines/nucleus/particles/totop.yaml',
-    'modified' => 1482713206,
+    'modified' => 1482802099,
     'data' => [
         'name' => 'To Top',
         'description' => 'Scroll back to top.',

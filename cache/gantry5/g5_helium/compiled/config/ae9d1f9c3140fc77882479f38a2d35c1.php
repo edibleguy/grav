@@ -1,57 +1,57 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1482763092,
-    'checksum' => 'f06075281bdf06ecc21ce5ba17070cca',
+    'timestamp' => 1482802853,
+    'checksum' => 'aae6524a7a667c46c1431d72bcfab625',
     'files' => [
         'user/data/gantry5/themes/g5_helium/config/_error' => [
             'index' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/_error/index.yaml',
-                'modified' => 1482716168
+                'modified' => 1482802098
             ],
             'layout' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/_error/layout.yaml',
-                'modified' => 1482716168
+                'modified' => 1482802098
             ]
         ],
         'user/data/gantry5/themes/g5_helium/config/default' => [
             'index' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/index.yaml',
-                'modified' => 1482762746
+                'modified' => 1482802098
             ],
             'layout' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/layout.yaml',
-                'modified' => 1482762746
+                'modified' => 1482802098
             ],
             'styles' => [
                 'file' => 'user/data/gantry5/themes/g5_helium/config/default/styles.yaml',
-                'modified' => 1482763085
+                'modified' => 1482802098
             ]
         ],
         'user/themes/g5_helium/config/default' => [
             'page/body' => [
                 'file' => 'user/themes/g5_helium/config/default/page/body.yaml',
-                'modified' => 1482697728
+                'modified' => 1482802103
             ],
             'particles/branding' => [
                 'file' => 'user/themes/g5_helium/config/default/particles/branding.yaml',
-                'modified' => 1482697728
+                'modified' => 1482802103
             ],
             'particles/copyright' => [
                 'file' => 'user/themes/g5_helium/config/default/particles/copyright.yaml',
-                'modified' => 1482697728
+                'modified' => 1482802103
             ],
             'particles/logo' => [
                 'file' => 'user/themes/g5_helium/config/default/particles/logo.yaml',
-                'modified' => 1482697728
+                'modified' => 1482802103
             ],
             'particles/social' => [
                 'file' => 'user/themes/g5_helium/config/default/particles/social.yaml',
-                'modified' => 1482697728
+                'modified' => 1482802103
             ],
             'particles/totop' => [
                 'file' => 'user/themes/g5_helium/config/default/particles/totop.yaml',
-                'modified' => 1482697728
+                'modified' => 1482802103
             ]
         ]
     ],

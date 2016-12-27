@@ -1,5 +1,5 @@
 ---
-title: 'Fuji Apple'
+title: 'Gala Apple'
 external_links:
     process: true
     title: false
@@ -8,4 +8,4 @@ external_links:
     mode: active
 ---
 
-****Fuji Apple Facts and stuff go here.
+Gala Apple goes here.

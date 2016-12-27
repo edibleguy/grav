@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/plugins/feed/blueprints.yaml',
-    'modified' => 1482719726,
+    'modified' => 1482802099,
     'data' => [
         'name' => 'Feed',
         'version' => '1.5.0',

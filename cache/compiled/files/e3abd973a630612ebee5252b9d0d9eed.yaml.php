@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/config/themes/bones-vanilla.yaml',
-    'modified' => 1482726955,
+    'modified' => 1482802098,
     'data' => [
         'enabled' => true,
         'site_title' => [

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://page-inject/page-inject.yaml',
-    'modified' => 1482727100,
+    'modified' => 1482802102,
     'data' => [
         'enabled' => true,
         'active' => true,

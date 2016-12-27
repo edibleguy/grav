@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/data/gantry5/themes/g5_helium/config/default/styles.yaml',
-    'modified' => 1482763085,
+    'modified' => 1482802098,
     'data' => [
         'preset' => 'preset5',
         'base' => [

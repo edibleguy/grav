@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/themes/g5_helium/particles/contentcubes.yaml',
-    'modified' => 1482697728,
+    'modified' => 1482802103,
     'data' => [
         'name' => 'Content Cubes',
         'description' => 'Display content in side-by-side cubes.',

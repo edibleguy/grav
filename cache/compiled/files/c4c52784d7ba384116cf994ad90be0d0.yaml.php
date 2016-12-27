@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/config/site.yaml',
-    'modified' => 1482694657,
+    'modified' => 1482802098,
     'data' => [
         'title' => 'My Edible Landscape',
         'author' => [

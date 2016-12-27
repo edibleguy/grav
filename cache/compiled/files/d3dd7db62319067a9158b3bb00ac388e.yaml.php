@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/themes/woo/blueprints.yaml',
-    'modified' => 1482725242,
+    'modified' => 1482802104,
     'data' => [
         'name' => 'Woo',
         'version' => '1.2.0',

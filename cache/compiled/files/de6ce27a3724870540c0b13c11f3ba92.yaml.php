@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/config/themes/purity.yaml',
-    'modified' => 1482726157,
+    'modified' => 1482802098,
     'data' => [
         'enabled' => true,
         'tagline' => 'stuff',
