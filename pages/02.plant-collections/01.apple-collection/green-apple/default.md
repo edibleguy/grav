@@ -1,5 +1,5 @@
 ---
-title: 'Apple Collection'
+title: 'Green Apple'
 external_links:
     process: true
     title: false
@@ -8,4 +8,4 @@ external_links:
     mode: active
 ---
 
-Apple collection listed here.
+This apple is green.

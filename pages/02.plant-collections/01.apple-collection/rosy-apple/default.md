@@ -1,5 +1,5 @@
 ---
-title: 'Macoun Apple'
+title: 'Rosy Apple'
 external_links:
     process: true
     title: false
@@ -8,4 +8,4 @@ external_links:
     mode: active
 ---
 
-Macoun apple!!
+This apple is golden.
